@@ -4,40 +4,21 @@ function About() {
   return (
     <div className='about-container'>
         <h1>About Me</h1>
-        <p>Hi, I'm Jonathan MacDuff, an autistic full-stack software 
-        developer with a background 
-        in sales and a unique mind built for breaking things down and improving them.</p>
+        <p>Hi, I'm Jonathan MacDuff, an autistic full-stack software developer who's spent 8 years as the #1 salesperson at my company. Now I'm using AI to help businesses systematize the kind of success most people leave to chance.</p>
 
-        <p>Before I decided to dive head-first into the world of software development, 
-        I was (and am) a decicated, successful sales representative. 
-        For the past eight years, I've been the top-performing salesperson at my 
-        company; not because I'm naturally outgoing, but because I taught myself how to 
-        succeed in a space that didn't come naturally. I built a system and adapted my 
-        approach over time. I learned how to turn my strengths - pattern recognition 
-        and rapid learning - into real-world results. After a tough first month, 
-        I had solved my sales role. I've held the #1 spot ever since, and now 
-        consistently generate more than twice the business of any of my peers.</p>
+        <p>My background is unconventional. I've been the top-performing sales representative in my organization for over 8 years, consistently generating twice the business of my peers; not because I'm naturally outgoing, but because I built a systematic approach to something most people do by instinct. After a tough first month, I solved sales like a puzzle. I've held the #1 spot ever since.</p>
 
-        <p>Now, I'm transitioning into full-stack software development: a field 
-        that <em>does</em> come naturally to me. I've always been drawn to complex 
-        systems and logical structure. Coding gives me the kind of deep, problem-solving 
-        engagement I've always looked for in my work.</p>
+        <p>Now I'm transitioning into software development; a field that actually <em>does</em> come naturally to me. I'm proficient with Python (Flask), JavaScript (React), and Claude Code. What makes me different is that I combine technical skills with proven business results.</p>
 
-        <p>My autism is a huge part of how my brain works; it shapes how I see problems 
-        and build solutions. I don't see it as a disability; to the contrary, my autism helps me spot patterns and break down systems, 
-        approaching challenges from unconventional angles. That's what my domain name 
-        is about: autism isn't just a diagnosis, it's a way of thinking that brings 
-        real value to my technical work.</p>
+        <p>My autism is my competitive advantage. It shapes how I spot patterns, deconstruct complex systems, and approach problems from angles others miss. That's what "autistic insight" means; it's not just a diagnosis, it's a systematic way of thinking that creates real value.</p>
 
-        <p>In my sales role, I also developed strong communication skills; not just 
-        persuasion, but real, practiced interpersonal clarity. I had to learn how to 
-        listen, and how to translate complex ideas. This process taught me how to 
-        connect with people in ways that I couldn't before. That work now informs 
-        how I communicate and collaborate, no matter the context.</p>
+        <p>I've recently discovered I can use AI to accelerate my work by 10-20x. What took me months to build, I can now accomplish in days using advanced language models. I'm professionally trained in AI model behavior, having worked as an AI trainer parsing outputs for accuracy and safety.</p>
 
-        <p>I'm still early in my development career, but I learn fast and think deeply. 
-        I'm looking for a team that values honesty, curiosity, and growth; 
-        one where I can make meaningful contributions.</p>
+        <p>Here's what I'm building now: AI-powered business optimization services that combine my 8 years of sales excellence with cutting-edge AI analysis. I help companies systematize what high performers do instinctivel; using pattern recognition that most humans miss and AI capabilities that most consultants don't have.</p>
+
+        <p>My communication skills aren't natural, they're learned. Eight years in sales taught me how to listen, translate complex ideas, and connect with people in ways that actually work. That experience now informs how I collaborate and deliver results, whether I'm coding or consulting.</p>
+
+        <p>I'm looking for businesses ready to systematize success rather than leave it to chance. If you want to see what happens when proven sales methodology meets advanced AI analysis, let's talk.</p>
     </div>
   );
 };
